@@ -9,8 +9,8 @@ Idea is to get all the data locally (last 7 days, iterate, store in json daily)
 - [ ] script to store config data in config.json
 - [ ] FitBit
   - [ ] get the token generate script
-    - [ [ strip to suit my config.json
-  - [ [ check for api refresh token usage
+    - [ ] strip to suit my config.json
+  - [ ] check for api refresh token usage
   - [ ] fetch data
     - [ ] Check if data today
     - [ ] Store local (in json)?
